@@ -22,6 +22,7 @@ bin_PROGRAMS = \
 
 csgoprs_SOURCES = \
 	src/demofile.cc	\
+	src/demobinreader.cc	\
 	src/main.cc
 
 nodist_csgoprs_SOURCES = \
